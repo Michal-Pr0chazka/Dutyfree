@@ -15,8 +15,9 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-// bla bla no toz to nevim 
+// bla bla bla bla bla
 
+int a = 10;
 app.UseRouting();
 
 app.UseAuthorization();
