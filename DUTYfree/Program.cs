@@ -15,7 +15,7 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-// bla bla
+// bla bla no toz to nevim 
 
 app.UseRouting();
 
